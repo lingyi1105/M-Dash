@@ -23,3 +23,6 @@ yarn-error.log*
 What-is-this.txt
 *.code-workspace
 workspace.code-workspace
+
+#Electron-builder output
+/dist_electron
